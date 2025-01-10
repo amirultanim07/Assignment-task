@@ -133,18 +133,65 @@
     border-radius: 8%;
     padding: 8px;
 }
-.bn-2{
+
+.bn-2 {
     text-decoration: none;
     color: white;
-    background-color: rgba(9, 161, 92, 1); 
+    background-color: rgba(9, 161, 92, 1);
     border-radius: 8%;
     padding: 8px;
 }
-.bn-3{
+
+.bn-3 {
     text-decoration: none;
     color: white;
     background-color: rgba(255, 194, 57, 1);
     border-radius: 8%;
     padding: 8px;
 }
+
+.logo-2 {
+    background-color: rgb(223, 219, 219);
+    background-image: url("../assets/quote-bg.png");
+    height: 200px;
+    width: 1200px;
+    margin-left: 90px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    padding-top: 35px;
+    border-radius: 8px;
+
+}
+
+.challenge-subtitle {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 24px;
+}
+
+.news-dev-container{
+    width: 70%;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 60px;
+}
+
+.box1 {
+    width: 97%;
+    display: flex;
+    justify-content: center;
+    margin-top: 48px;
+    background-color: #FFFFFF;
+}
+
+.box1-text {
+    padding-top: 15px;
+    font-weight: 85;
+}
+
+.box1-btn {
+    margin-top: 10px;
+    padding: 8px;
+    background-color: rgba(0, 106, 80, 1);
+    color: rgb(255, 255, 255);
 }
