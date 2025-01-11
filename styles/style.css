@@ -169,11 +169,11 @@
     font-size: 24px;
 }
 
-.news-dev-container{
+.news-dev-container {
     width: 70%;
     padding: 20px;
     margin: 20px;
-    margin-left: 60px;
+    margin-left: 67px;
 }
 
 .box1 {
@@ -196,21 +196,121 @@
     color: rgb(255, 255, 255);
     border-radius: 8px;
 }
-.box2{
+
+.box2 {
     width: 97%;
     display: flex;
     justify-content: center;
     margin-top: 48px;
     background-color: #FFFFFF;
 }
-.box2-text{
+
+.box2-text {
     padding-top: 15px;
     font-weight: 85;
 }
-.box2-btn{
+
+.box2-btn {
     margin-top: 20px;
     padding: 8px;
     background-color: rgba(0, 106, 80, 1);
     color: rgb(255, 255, 255);
     border-radius: 8px;
+}
+
+.pic-2 {
+    padding-bottom: 10px;
+}
+
+.pic-1 {
+    border-radius: 8px;
+}
+
+.text {
+    text-align: center;
+    width: 1145px;
+    height: 464px;
+    margin-top: 80px;
+    background-color: whitesmoke;
+    margin-left: 75px;
+    border-radius: 8px;
+}
+
+.yes {
+    border: 2px solid rgba(14, 14, 14, 0.15);
+    font-size: 40px;
+    font-weight: bold;
+    display: inline;
+    border-radius: 8px;
+    padding: 10px;
+    color: rgba(14, 14, 14, 0.8);
+}
+
+.father {
+    padding: 32px;
+    padding-bottom: 32px;
+}
+
+.title {
+    padding-bottom: 24px;
+}
+
+.input {
+    margin-bottom: 32px;
+    width: 732px;
+    height: 50px;
+    text-align: center;
+}
+
+#yes-2 {
+    background-color: rgba(198, 228, 214, 1);
+}
+.button{
+    padding: 10px 25px;
+    background-color: rgba(0, 106, 80, 1);
+    color: white;
+    border-radius: 8px;
+}
+.last-part{
+    text-align: center;
+    height: 400px;
+    width: 1145px;
+    background-color: rgba(198, 228, 214, 1);
+    margin-left: 75px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+.last-part-title{
+    font-size: 40;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 1);
+    padding-top: 80px;
+}
+.last-part-sub-title{
+    color: (14, 14, 14, 0.7);
+    height: 48px;
+    font-size: 16px;
+    padding-top: 16px;
+    padding-bottom: 24px;
+}
+.input-2{
+    height: 50px;
+    width: 600px;
+    border-radius: 8px;
+    color: white;
+    padding-left: 10px;
+}
+.click{
+    height: 55px;
+    width: 150px;
+    border-radius: 8px;
+    background-color: rgba(0, 106, 80, 1);
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+}
+.pera-1{
+    padding-top: 30px;
+    font-weight: 54;
+    font-size:small;
 }
